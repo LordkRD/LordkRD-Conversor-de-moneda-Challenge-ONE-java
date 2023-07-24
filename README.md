@@ -6,4 +6,5 @@ Hola esta es una app de escritorio para cambio de divisa, DOP,EURO,USD. desarrol
 ulizando los conceptos basicos POO.
 
 <h2 align ="center">Funcionalidad</h2>
-<iframe frameBorder='0' width='640' height='360' webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://www.awesomescreenshot.com/embed?id=19372419&shareKey=b7785bfa0d26d510dabeb3b54744818a"></iframe>
+<video src='https://tinyurl.com/2cd6y6t7' width=180/>
+
