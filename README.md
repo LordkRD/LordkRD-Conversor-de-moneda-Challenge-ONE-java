@@ -6,5 +6,7 @@ Hola esta es una app de escritorio para cambio de divisa, DOP,EURO,USD. desarrol
 ulizando los conceptos basicos POO.
 
 <h2 align ="center">Funcionalidad</h2>
-<video src='https://tinyurl.com/2cd6y6t7' width=180/>
+
+https://github.com/LordkRD/LordkRD-Conversor-de-moneda-Challenge-ONE-java/assets/130079401/e7d762df-ee9c-44c8-bca0-13c6615c20fb
+
 
